@@ -1,9 +1,9 @@
 {
-    "name": "gregwar/captcha",
+    "name": "lachlan-00/captcha",
     "type": "library",
     "description": "Captcha generator",
     "keywords": ["captcha", "spam", "bot"],
-    "homepage": "https://github.com/Gregwar/Captcha",
+    "homepage": "https://github.com/lachlan-00/Captcha",
     "license": "MIT",
     "authors": [
         {
@@ -14,6 +14,12 @@
         {
             "name": "Jeremy Livingston",
             "email": "jeremy.j.livingston@gmail.com"
+        },
+        {
+            "name": "Lachlan de Waard",
+            "email": "lachlan.00@gmail.com",
+            "homepage": "https://github.com/lachlan-00",
+            "role": "Developer"
         }
     ],
     "require": {
